@@ -1,0 +1,236 @@
+@-ms-viewport{
+  width: device-width;
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+.top1{
+	background-color: rgb(43, 42, 64);
+}
+.bg1{
+	background-color: #fff;
+	width: 90%;
+	margin: auto;
+}
+.logo{
+	position: relative;
+	float: left;
+	margin-left: 2rem;
+	margin-top: .69rem;
+}
+.slide1{
+	position: relative;
+	text-align: center;
+	width: 100%;
+}
+.img1{
+	width: 100%;
+	opacity: 0.92;
+}
+.txt1{
+	color: rgb(26, 30, 38);
+	position: absolute;
+	width: 40%;
+	top: 50%;
+	left: 50%;
+	text-align: center;
+	transform: translate(-50%, -50%);
+}
+.c1{
+	margin-right: 2rem;
+	color: rgb(223, 226, 242);
+}
+.c2{
+	color: rgb(43, 42, 64);
+	font-weight: 500;
+}
+.active{
+	color: rgb(38, 120, 191);
+	font-weight: 500;
+	border: 1px rgb(38, 120, 191) solid;
+}
+.row1{
+	width: 80%;
+	padding-top: 5rem;
+}
+.ro1{
+	width: 80%;
+	padding-top: 3rem;
+}
+.cio{
+	margin-bottom: 2rem;
+	color: rgb(26, 30, 38);
+}
+.img2{
+	width: 90%;
+	margin-bottom: 5rem;
+}
+.p1{
+	width: 75%;
+	font-weight: 400;
+	color: rgb(26, 30, 38);
+}
+.row2{
+	padding-top: 5rem;
+	padding-left: 5rem;
+	padding-right: 5rem;
+	padding-bottom: 2rem;
+	background-color: rgb(26, 30, 38);
+}
+.img3{
+	width: 70%;
+	margin-left: 2rem;
+}
+.im3{
+	width: 70%;
+	opacity: 0.9;
+}
+.sap{
+	margin-top: 10px;
+	color: rgb(223, 226, 242);
+}
+.p2{
+	margin-top: 10px;
+	width: 70%;
+	margin-left: 3rem;
+	color: rgb(223, 226, 242);
+	font-weight: 400;
+}
+.row3{
+	margin-top: 5rem;
+	text-align: center;
+}
+.p3{
+	width: 70%;
+	margin: auto;
+	text-align: left;
+	color: rgb(26, 30, 38);
+    margin-bottom: 5rem;
+}
+.row4{
+	padding: 2rem;
+	width: 90%;
+	background-color: rgb(43, 42, 64) ;
+}
+.col1{
+	color: rgb(223, 226, 242);
+	text-align: center;
+	width: 80%;
+}
+.row5{
+	text-align: center;
+	margin-top: 5rem;
+	margin-bottom: 5rem;
+	width: 85%;
+}
+.cio1{
+	margin-bottom: 4rem;
+	color: rgb(26, 30, 38);
+	text-align: center;
+}
+.ci1{
+    margin-bottom: 1rem;
+	text-align: center;
+	color: rgb(26, 30, 38);
+}
+.a1{
+	padding: 5px 10px;
+}
+.a1:hover{
+    background-color: rgb(38, 120, 191);
+    color: rgb(223, 226, 242);
+    text-decoration: none;
+}
+.cio2{
+	margin-bottom: 1rem;
+	text-align: center;
+	color: rgb(223, 226, 242);
+}
+video{
+	width: 70%;
+	height: auto;
+	margin: auto;
+	align-content: center;
+	margin-bottom: 2rem;
+	margin-top: 2rem;
+}
+.p4{
+	width: 70%;
+	margin: auto;
+	color: rgb(223, 226, 242);
+	font-weight: 500;
+	text-align: left;
+    margin-bottom: 1rem;
+}
+.new1{
+	float: right;
+	margin-top: 1rem;
+}
+.new2{
+	float: left;
+}
+.b1{
+    text-align: center;
+}
+.cio3{
+	margin-top: 1rem;
+	margin-bottom: 2rem;
+	color: rgb(223, 226, 242);
+	text-align: center;
+}
+.ci2{
+	margin-top: -2rem;
+	margin-bottom: 2rem;
+	color: rgb(223, 226, 242);
+	text-align: center; 
+}
+.p5{
+	width: 70%;
+	margin: auto;
+	margin-bottom: 1rem;
+	margin-top: -.5rem;
+	color: rgb(119, 161, 166);
+	text-align: left; 
+}
+.img4{
+	width: 70%;
+	margin-bottom: 2rem;
+}
+.cio4{
+	width: 70%;
+	margin: auto;
+	margin-bottom: 1rem;
+	text-align: left;
+	color: rgb(26, 30, 38);
+}
+.b2{
+	border-radius: 0px;
+	background-color: rgb(38, 120, 191);
+	font-weight: 500;
+}
+.email{
+	text-align: center;
+	color: rgb(119, 161, 166);
+	padding-bottom: .50rem;
+	width: 300px;
+}
+.foot1{
+	margin-top: 7rem;
+	background-color: rgb(43, 42, 64);
+	bottom: 0px;
+}
+.s1{
+	margin-top: 2rem;
+	text-align: center;
+	color: rgb(223, 226, 242);
+	margin-bottom: 0px;
+	padding-bottom: 5px;
+}
+.rowf{
+	width: 80%;
+	padding-top: 3rem;
+}
